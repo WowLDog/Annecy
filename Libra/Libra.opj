@@ -1,0 +1,77 @@
+(ExpressProject "Libra"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "f:\imlab_git\capturesch\chips.olb"
+        (Type "Schematic Library"))
+      (File "f:\imlab_git\capturesch\common.olb"
+        (Type "Schematic Library"))
+      (File "f:\imlab_git\capturesch\headers.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\libra.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (Resistor
+      (FullPartName "Resistor.Normal")
+      (LibraryName "F:\IMLAB_GIT\CAPTURESCH\COMMON.OLB")
+      (DeviceIndex "0"))
+    (Capacitor
+      (FullPartName "Capacitor.Normal")
+      (LibraryName "F:\IMLAB_GIT\CAPTURESCH\COMMON.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName
+         "H:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (HDC1080
+      (FullPartName "HDC1080.Normal")
+      (LibraryName "F:\IMLAB_GIT\CAPTURESCH\CHIPS.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "F:\WorkSpace\Annecy\Libra\libra.dsn")
+      (Path "Design Resources" "F:\WorkSpace\Annecy\Libra\libra.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" "f:\imlab_git\capturesch\chips.olb")
+      (Path "Design Resources" "Library" "f:\imlab_git\capturesch\common.olb")
+      (Path "Design Resources" "Library" "f:\imlab_git\capturesch\headers.olb")
+      (Select "Design Resources" "Library" "f:\imlab_git\capturesch\chips.olb"
+         "HDC1080"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 876"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 130 1425 130 705")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "3292 1342")
+        (Zoom "627"))
+      (Path "F:\IMLAB_GIT\CAPTURESCH\CHIPS.OLB")
+      (Package "HDC1080"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1629 78 653")
+        (Scroll "-195 0")
+        (Zoom "96")
+        (Occurrence "/"))
+      (Path "F:\WORKSPACE\ANNECY\LIBRA\LIBRA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
