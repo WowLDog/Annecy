@@ -1,0 +1,81 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : Libra.brd                                     )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Wed Nov 08 22:08:30 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'F:/WorkSpace/Annecy/Libra'
+Design Directory:            '.'
+Old design name:             'F:/WorkSpace/Annecy/Libra/Libra.brd'
+New design name:             'F:/WorkSpace/Annecy/Libra/Libra.brd'
+
+CmdLine: netrev -$ -i F:/WorkSpace/Annecy/Libra -y 1 -q netrev_constraint_report.xml F:/WorkSpace/Annecy/Libra/#Taaaasx16200.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read F:/WorkSpace/Annecy/Libra/pstchip.dat 
+   Finished reading F:/WorkSpace/Annecy/Libra/pstchip.dat (00:00:00.02)
+Starting to read F:/WorkSpace/Annecy/Libra/pstxprt.dat 
+   Finished reading F:/WorkSpace/Annecy/Libra/pstxprt.dat (00:00:00.00)
+Starting to read F:/WorkSpace/Annecy/Libra/pstxnet.dat 
+   Finished reading F:/WorkSpace/Annecy/Libra/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           H:/Cadence/Cadence_SPB_16.6-2015/share/local/pcb/modules 
+
+PSMPATH =  F:/IMLab_Git/AllegroLib/Packages/Headers/ 
+           F:/IMLab_Git/AllegroLib/Packages/Common/ 
+           F:/IMLab_Git/AllegroLib/Packages/Chips/ 
+           F:/IMLab_Git/AllegroLib/Flash/ 
+
+PADPATH =  F:/IMLab_Git/AllegroLib/Pads/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Nov 8 22:08:30 2017
+   DESIGN NAME : 'LIBRA'
+   PACKAGING ON Feb 15 2016 19:53:59
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:22
+elapsed time  0:00:00
+

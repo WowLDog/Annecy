@@ -1,0 +1,32 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : Libra.brd                                     )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Tue Nov 07 18:15:04 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U2 / MPL3115A2_LGA30X50_MPL3115A1 / LGA30X50 at (72.4 1047.8)
+         Placed symbol:  U1 / HDC1080_WSON310X310_HDC1080 / WSON310X310 at (260.6 969.0)
+         Placed symbol:  J1 / HEADER6X1_HEADER6X1_HEADER6X1 / HEADER6X1 at (405.5 1208.0)
+         Placed symbol:  C4 / CAPACITOR_C0805_100NF / C0805 at (532.4 974.0)
+         Placed symbol:  C3 / CAPACITOR_C0805_100NF / C0805 at (678.2 974.0)
+         Placed symbol:  R1 / RESISTOR_R0805_0R / R0805 at (824.0 974.0)
+         Placed symbol:  C2 / CAPACITOR_C0805_0.1UF / C0805 at (969.8 974.0)
+         Placed symbol:  R3 / RESISTOR_R0805_4.99K / R0805 at (1115.6 974.0)
+         Placed symbol:  R4 / RESISTOR_R0805_4.99K / R0805 at (1261.4 974.0)
+         Placed symbol:  R5 / RESISTOR_R0805_4.99K / R0805 at (1407.2 974.0)
+         Placed symbol:  R6 / RESISTOR_R0805_4.99K / R0805 at (76.9 1582.0)
+         Placed symbol:  R2 / RESISTOR_R0805_0R / R0805 at (222.7 1582.0)
+         Placed symbol:  C1 / CAPACITOR_C0805_10UF / C0805 at (368.5 1582.0)
+
+
+Placed 13 of 13 applicable (13 total) symbols.
+
+-----------------------------------------------------------------------
+

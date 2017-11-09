@@ -1,0 +1,140 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Nov-07-2017 at 21:49:56 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='LIBRA';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@LIBRA.SCHEMATIC1(SCH_1):INS1026@COMMON.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@libra.schematic1(sch_1):ins1026@common.\capacitor.normal\(chips)',
+ P_PATH='@libra.schematic1(sch_1):page1_ins1026@common.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@LIBRA.SCHEMATIC1(SCH_1):INS376@COMMON.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@libra.schematic1(sch_1):ins376@common.\capacitor.normal\(chips)',
+ P_PATH='@libra.schematic1(sch_1):page1_ins376@common.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@LIBRA.SCHEMATIC1(SCH_1):INS1052@COMMON.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@libra.schematic1(sch_1):ins1052@common.\capacitor.normal\(chips)',
+ P_PATH='@libra.schematic1(sch_1):page1_ins1052@common.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPACITOR_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@LIBRA.SCHEMATIC1(SCH_1):INS1000@COMMON.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@libra.schematic1(sch_1):ins1000@common.\capacitor.normal\(chips)',
+ P_PATH='@libra.schematic1(sch_1):page1_ins1000@common.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER8X1_HEADER8X1_HEADER8X1':;
+
+SECTION_NUMBER 1
+ '@LIBRA.SCHEMATIC1(SCH_1):INS3237@HEADERS.HEADER8X1.NORMAL(CHIPS)':
+ C_PATH='@libra.schematic1(sch_1):ins3237@headers.\header8x1.normal\(chips)',
+ P_PATH='@libra.schematic1(sch_1):page1_ins3237@headers.\header8x1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@LIBRA.SCHEMATIC1(SCH_1):INS1825@COMMON.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@libra.schematic1(sch_1):ins1825@common.\resistor.normal\(chips)',
+ P_PATH='@libra.schematic1(sch_1):page1_ins1825@common.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@LIBRA.SCHEMATIC1(SCH_1):INS1799@COMMON.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@libra.schematic1(sch_1):ins1799@common.\resistor.normal\(chips)',
+ P_PATH='@libra.schematic1(sch_1):page1_ins1799@common.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_R0603_4.99K':;
+
+SECTION_NUMBER 1
+ '@LIBRA.SCHEMATIC1(SCH_1):INS1313@COMMON.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@libra.schematic1(sch_1):ins1313@common.\resistor.normal\(chips)',
+ P_PATH='@libra.schematic1(sch_1):page1_ins1313@common.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_R0603_4.99K':;
+
+SECTION_NUMBER 1
+ '@LIBRA.SCHEMATIC1(SCH_1):INS401@COMMON.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@libra.schematic1(sch_1):ins401@common.\resistor.normal\(chips)',
+ P_PATH='@libra.schematic1(sch_1):page1_ins401@common.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_R0603_4.99K':;
+
+SECTION_NUMBER 1
+ '@LIBRA.SCHEMATIC1(SCH_1):INS417@COMMON.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@libra.schematic1(sch_1):ins417@common.\resistor.normal\(chips)',
+ P_PATH='@libra.schematic1(sch_1):page1_ins417@common.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_R0603_4.99K':;
+
+SECTION_NUMBER 1
+ '@LIBRA.SCHEMATIC1(SCH_1):INS1350@COMMON.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@libra.schematic1(sch_1):ins1350@common.\resistor.normal\(chips)',
+ P_PATH='@libra.schematic1(sch_1):page1_ins1350@common.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'HDC1080_WSON310X310_HDC1080':;
+
+SECTION_NUMBER 1
+ '@LIBRA.SCHEMATIC1(SCH_1):INS243@CHIPS.HDC1080.NORMAL(CHIPS)':
+ C_PATH='@libra.schematic1(sch_1):ins243@chips.\hdc1080.normal\(chips)',
+ P_PATH='@libra.schematic1(sch_1):page1_ins243@chips.\hdc1080.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'MPL3115A2_LGA30X50_MPL3115A1':;
+
+SECTION_NUMBER 1
+ '@LIBRA.SCHEMATIC1(SCH_1):INS935@CHIPS.MPL3115A2.NORMAL(CHIPS)':
+ C_PATH='@libra.schematic1(sch_1):ins935@chips.\mpl3115a2.normal\(chips)',
+ P_PATH='@libra.schematic1(sch_1):page1_ins935@chips.\mpl3115a2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

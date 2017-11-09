@@ -1,0 +1,15 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : Libra.brd                                     )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Thu Nov 09 18:00:02 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+WARNING   WARNING(SPMHDB-42): Run batch DRC to correctly regenerate DRC errs.
+
+1 warnings, 0 errors detected, 0 errors could be fixed.
