@@ -1,0 +1,50 @@
+\t (00:00:03) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:03)     Journal start - Sun Nov 19 14:34:21 2017
+\t (00:00:03)         Host=DESKTOP-9H8V99M User=Dawn Pid=14660 CPUs=8
+\t (00:00:03) CmdLine= H:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: F:/WorkSpace/Annecy/Libra/Libra.brd
+\i (00:00:04) trapsize 20
+\i (00:00:04) trapsize 19
+\i (00:00:04) trapsize 20
+\i (00:00:05) trapsize 17
+\i (00:00:05) trapsize 17
+\i (00:00:05) placementedit 
+\i (00:00:08) color192 
+\i (00:00:08) setwindow cvf.dialog
+\i (00:00:08) cvf layer_mode
+\i (00:00:08) setwindow pcb
+\i (00:00:08) placementedit 
+\i (00:00:10) setwindow cvf.dialog
+\i (00:00:10) cvf layer_tree_item 'Display'
+\i (00:00:11) cvf layer_tree_item 'Stack-Up'
+\i (00:00:14) cvf global_visible
+\i (00:00:15) cvf apply
+\i (00:00:16) cvf okay
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 172.0 638.4
+\i (00:00:17) trapsize 35
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 398.9 641.9
+\t (00:00:17) Grids are drawn 10.0, 10.0 apart for enhanced viewability.
+\i (00:00:17) trapsize 69
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 584.3 646.0
+\t (00:00:17) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:00:17) trapsize 138
+\i (00:00:20) open 
+\e (00:00:20) Do you want to save the changes you made to Libra.brd?
+\i (00:00:22) fillin yes 
+\i (00:00:35) fillin "F:\Zodiac\CR01\cr01.brd"
+\i (00:00:35) cd "F:\Zodiac\CR01"
+\t (00:00:35) Opening existing design...
+\t (00:00:35) Grids are drawn 320.000, 320.000 apart for enhanced viewability.
+\t (00:00:35) Grids are drawn 40.000, 40.000 apart for enhanced viewability.
+\i (00:00:35) trapsize 31994
+\t (00:00:35)     Journal end - Sun Nov 19 14:34:53 2017

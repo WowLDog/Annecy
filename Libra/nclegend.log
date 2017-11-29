@@ -4,14 +4,11 @@
 (                                                                     )
 (    Drawing          : Libra.brd                                     )
 (    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Thu Nov 09 17:29:15 2017                      )
+(    Date/Time        : Sat Nov 18 17:10:41 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Begin processing of drill legend template file 'H:/Cadence/Cadence_SPB_16.6-2015/share/pcb/text/nclegend/default-mil.dlt' ...
 End of drill legend template file processing.
-
-Begin processing drill holes.
-No errors detected in processing holes.
-End processing drill holes.
+Drill Legend command cancelled.

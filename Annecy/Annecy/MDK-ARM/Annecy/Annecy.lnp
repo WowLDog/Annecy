@@ -1,0 +1,25 @@
+--cpu Cortex-M3
+"annecy\startup_stm32f103xe.o"
+"annecy\system_stm32f1xx.o"
+"annecy\stm32f1xx_it.o"
+"annecy\stm32f1xx_hal_msp.o"
+"annecy\main.o"
+"annecy\libra_i2c.o"
+"annecy\delay.o"
+"annecy\stm32f1xx_hal_tim.o"
+"annecy\stm32f1xx_hal_flash.o"
+"annecy\stm32f1xx_hal_uart.o"
+"annecy\stm32f1xx_hal_rcc.o"
+"annecy\stm32f1xx_hal_pwr.o"
+"annecy\stm32f1xx_hal_dma.o"
+"annecy\stm32f1xx_hal.o"
+"annecy\stm32f1xx_hal_rcc_ex.o"
+"annecy\stm32f1xx_hal_gpio_ex.o"
+"annecy\stm32f1xx_hal_flash_ex.o"
+"annecy\stm32f1xx_hal_gpio.o"
+"annecy\stm32f1xx_hal_tim_ex.o"
+"annecy\stm32f1xx_hal_cortex.o"
+--library_type=microlib --strict --scatter "Annecy\Annecy.sct"
+--diag_suppress=L6329 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Annecy.map" -o Annecy\Annecy.axf
